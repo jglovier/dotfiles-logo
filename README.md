@@ -4,14 +4,8 @@ I created a logo for your dotfiles. Well, for @pengwynn's [dotfiles](http://dotf
 
 ## Versions
 
-### Traditional layout
-
-<img src="dotfiles-logo.png" alt="dotfiles logo" width="200">
-
-### Stacked layout
-
-<img src="dotfiles-logo-stacked.png" alt="dotfiles stacked logo" width="80">
-
-### Just the icon
-
-<img src="dotfiles-logo-icon.png" alt="dotfiles logo icon" width="80">
+|   |   |
+|---|---|
+|**Traditional layout**|<img src="dotfiles-logo.png" alt="dotfiles logo" width="200">|
+|**Stacked layout**|<img src="dotfiles-logo-stacked.png" alt="dotfiles stacked logo" width="80">|
+|**Just the icon**|<img src="dotfiles-logo-icon.png" alt="dotfiles logo icon" width="80">|
